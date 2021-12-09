@@ -1,2 +1,3 @@
 # BoggieCoin
-[![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Swetsen/BoggieCoin?style=for-the-badge) ![Lines of code](https://img.shields.io/tokei/lines/github.com/Swetsen/BoggieCoin?style=for-the-badge)
